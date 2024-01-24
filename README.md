@@ -3,7 +3,7 @@ TCR repertoire characteristics predict clinical response to adoptive CTL therapy
 
 Interested in reading paper, here is the link - https://pubmed.ncbi.nlm.nih.gov/34377592/
 
-#=== Input and output files are not made available.
+#=== Input and output files are NOT made available.
 
 EBV TCR analysis
 
